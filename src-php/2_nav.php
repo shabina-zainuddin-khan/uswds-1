@@ -30,10 +30,6 @@
 				          <a href="#" class="usa-button usa-button--secondary">Contact Us</a>
 				        </li>
 				      </ul>
-				    </nav>
-				  </div>
-				</header>
-
 			<div
 				class="usa-banner__content usa-accordion__content"
 				id="gov-banner-default">

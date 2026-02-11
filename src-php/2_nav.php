@@ -4,29 +4,34 @@
 		aria-label="Official website of the United States government">
 		<div class="usa-accordion">
 
-			<header class="usa-banner__header">
-				<div class="usa-banner__inner">
-					<div class="grid-col-auto">
-						<img
-							aria-hidden="true"
-							class="usa-banner__header-flag"
-							src="uswds/dist/img/us_flag_small.png"
-							alt="" />
-					</div>
-					<div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
-						<p class="usa-banner__header-text">
-							An official U.S. Web Design System (USWDS) template for the United States government website.
-						</p>
-						<p class="usa-banner__header-action">Here’s how you know</p>
-					</div>
-					<button
-						type="button"
-						class="usa-accordion__button usa-banner__button"
-						aria-expanded="false"
-						aria-controls="gov-banner-default">
-						<span class="usa-banner__button-text">Here’s how you know</span>
-					</button>
-				</div>
+			<header class="usa-header usa-header--basic">
+			  <div class="usa-nav-container">
+			    <div class="usa-navbar">
+			      <div class="usa-logo" id="basic-logo">
+			        <em class="usa-logo__text">
+			          <a href="/" title="Home" aria-label="Home">RFPMart Project</a>
+			        </em>
+			      </div>
+			      <button class="usa-menu-btn">Menu</button>
+			    </div>
+			    
+			    <nav aria-label="Primary navigation" class="usa-nav">
+			      <button class="usa-nav__close">
+			        <img src="assets/img/usa-icons/close.svg" alt="Close">
+			      </button>
+			      <ul class="usa-nav__primary usa-accordion">
+			        <li class="usa-nav__primary-item">
+			          <a class="usa-nav__link" href="#"><span>Current RFPs</span></a>
+			        </li>
+			        <li class="usa-nav__primary-item">
+			          <a class="usa-nav__link" href="#"><span>Design Standards</span></a>
+			        </li>
+			        <li class="usa-nav__primary-item">
+			          <a href="#" class="usa-button usa-button--secondary">Contact Us</a>
+			        </li>
+			      </ul>
+			    </nav>
+			  </div>
 			</header>
 
 			<div

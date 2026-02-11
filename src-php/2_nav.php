@@ -5,34 +5,34 @@
 		<div class="usa-accordion">
 
 			<header class="usa-header usa-header--basic">
-			  <div class="usa-nav-container">
-			    <div class="usa-navbar">
-			      <div class="usa-logo" id="basic-logo">
-			        <em class="usa-logo__text">
-			          <a href="/" title="Home" aria-label="Home">RFPMart Project</a>
-			        </em>
-			      </div>
-			      <button class="usa-menu-btn">Menu</button>
-			    </div>
-			    
-			    <nav aria-label="Primary navigation" class="usa-nav">
-			      <button class="usa-nav__close">
-			        <img src="assets/img/usa-icons/close.svg" alt="Close">
-			      </button>
-			      <ul class="usa-nav__primary usa-accordion">
-			        <li class="usa-nav__primary-item">
-			          <a class="usa-nav__link" href="#"><span>Current RFPs</span></a>
-			        </li>
-			        <li class="usa-nav__primary-item">
-			          <a class="usa-nav__link" href="#"><span>Design Standards</span></a>
-			        </li>
-			        <li class="usa-nav__primary-item">
-			          <a href="#" class="usa-button usa-button--secondary">Contact Us</a>
-			        </li>
-			      </ul>
-			    </nav>
-			  </div>
-			</header>
+				  <div class="usa-nav-container">
+				    <div class="usa-navbar">
+				      <div class="usa-logo" id="basic-logo">
+				        <em class="usa-logo__text">
+				          <a href="/" title="Home" aria-label="Home">RFPMart Project</a>
+				        </em>
+				      </div>
+				      <button class="usa-menu-btn">Menu</button>
+				    </div>
+				    
+				    <nav aria-label="Primary navigation" class="usa-nav">
+				      <button class="usa-nav__close">
+				        <img src="assets/img/usa-icons/close.svg" alt="Close">
+				      </button>
+				      <ul class="usa-nav__primary usa-accordion">
+				        <li class="usa-nav__primary-item">
+				          <a class="usa-nav__link" href="#"><span>Current RFPs</span></a>
+				        </li>
+				        <li class="usa-nav__primary-item">
+				          <a class="usa-nav__link" href="#"><span>Design Standards</span></a>
+				        </li>
+				        <li class="usa-nav__primary-item">
+				          <a href="#" class="usa-button usa-button--secondary">Contact Us</a>
+				        </li>
+				      </ul>
+				    </nav>
+				  </div>
+				</header>
 
 			<div
 				class="usa-banner__content usa-accordion__content"
